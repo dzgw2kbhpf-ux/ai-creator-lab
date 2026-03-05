@@ -1,0 +1,8 @@
+{
+"name":"AI Creator Lab",
+"short_name":"AI Lab",
+"display":"standalone",
+"start_url":".",
+"background_color":"#0f1115",
+"theme_color":"#0f1115"
+}
